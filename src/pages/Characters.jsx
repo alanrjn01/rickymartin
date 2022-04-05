@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { getAllCharacters,getOneCharacter } from "../functions/functions";
+import { getOneCharacter } from "../functions/functions";
 import { Card } from "./Card";
 import '../styles/Characters.css'
 
