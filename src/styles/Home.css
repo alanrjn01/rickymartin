@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+a:link, a:visited,  a:hover, a:active
+{
+    text-decoration: none;
+}
+a{
+    color: #e088d1;
+    text-decoration: overline;
+}
+.vid_container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}

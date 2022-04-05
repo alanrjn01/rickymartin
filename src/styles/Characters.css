@@ -1,0 +1,13 @@
+html{
+    background: linear-gradient(90deg, rgba(66,113,156,1) 0%, rgba(17,67,113,1) 100%);
+    color: #FFFFFF;
+}
+
+
+.characters_container{
+    display: grid;
+    grid-template-columns: 128px 128px 128px 128px 128px;
+    column-gap: 36px;
+    justify-content: center;
+    margin-top: 20px;
+}
